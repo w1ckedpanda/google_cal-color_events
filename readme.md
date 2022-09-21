@@ -1,6 +1,6 @@
 This script allows you to color events in your Google Calendar, to keep track of what kind of event is waiting for you during the day / wek etc.
 NOTE:
-using this script will loop through ALL of the calendars in your Google account.
+using this script will loop through ALL of the calendars in you own in your Google account.
 
 ## to use the script:
 - [ ] visit https://script.google.com/home and create new project.
