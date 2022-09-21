@@ -18,13 +18,13 @@ function ColorEvents() {
       var e = events[j];
       var title = e.getTitle();
       if (title.match(/pozysk/i) != null) {
-        e.setColor(CalendarApp.EventColor.BLUE);
+        e.setColor(CalendarApp.EventColor.RED);
       }
       if (title.match(/prezentacja/i) != null) {
-        e.setColor(CalendarApp.EventColor.BLUE);
+        e.setColor(CalendarApp.EventColor.YELLOW);
       }
       if (title.match(/notar/i) != null) {
-        e.setColor(CalendarApp.EventColor.BLUE);
+        e.setColor(CalendarApp.EventColor.GREEN);
       }
       if (title.match(/telefon/i) != null) {
         e.setColor(CalendarApp.EventColor.BLUE);
